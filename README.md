@@ -3,6 +3,7 @@ Pivot Technology School SQL Project
 
 Data Pulled using Lahman's Baseball Database to answer below quesitons
 http://www.seanlahman.com/baseball-archive/statistics
+Additional Documentation Here: https://cran.r-project.org/web/packages/Lahman/Lahman.pdf
 
 
 Initial Questions
